@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100" aria-labelledby="title desc" role="img">
+  <title id="title">LockerFella logo</title>
+  <desc id="desc">Stylized lock icon with LockerFella wordmark (placeholder)</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#c1c9d1"/>
+      <stop offset="1" stop-color="#8c949d"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="400" height="100" fill="none" />
+  <g transform="translate(20,10)">
+    <rect x="0" y="20" width="60" height="50" rx="8" fill="url(#g)" stroke="#0b0f12" stroke-width="2"/>
+    <circle cx="30" cy="45" r="8" fill="#0b0f12"/>
+    <rect x="26" y="36" width="8" height="16" rx="2" fill="#c1c9d1"/>
+  </g>
+  <text x="110" y="62" font-family="Montserrat, sans-serif" font-size="36" fill="#c1c9d1">LockerFella</text>
+</svg>
